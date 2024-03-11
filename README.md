@@ -33,6 +33,8 @@ And then, I did the same but based on zip codes this time.
 
 <img src="Patient Images/Reason based on Zip.png" height = 250, width = 400>
 
+After
+
 
 
 
