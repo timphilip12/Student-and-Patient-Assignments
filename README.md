@@ -29,5 +29,10 @@ Then, I created a pivot table with the number of visit grouped by reason based o
 
 <img src="Patient Images/Reason Based on Walkin.png" height = 250, width = 400>
 
+And then, I did the same but based on zip codes this time.
+
+<img src="Patient Images/Reason based on Zip.png" height = 250, width = 400>
+
+
 
 
