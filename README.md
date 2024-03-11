@@ -37,7 +37,7 @@ After this, I plotted the total invoice amount based on reason for visit, segmen
 
 <img src="Patient Images/Total_Invoice_per_Reason.png" height = 250, width = 400>
 
-Finally, I wanted to see how many invoices there were for each item so plotted them in a bar chart.
+Finally, I wanted to see how many invoices there were for each item so plotted them in a bar chart and I found interesting to see that most of them were office visit or pharmacy.
 
 <img src="Patient Images/Count_per_Invoice_Item.png" height = 250, width = 400>
 
