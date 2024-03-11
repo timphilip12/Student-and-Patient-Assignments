@@ -12,3 +12,9 @@ Then, I made a chart based on the birth year of the student.
 I also made a chart for the total cost per course segmented by payment plan.
 
 <img src="Student Images/Total Cost per Major.png" height = 250, width = 400>
+
+And finally, I did the same but with the balance per course also segmented by payment plan.
+
+<img src="Student Images/Total Balance per Major.png" height = 250, width = 400>
+
+
