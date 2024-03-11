@@ -21,6 +21,9 @@ And finally, I did the same but with the balance per course also segmented by pa
 # Patient
 ### These are my findings on the patient data that can be found in the Patient Data folder. There are three tables: Billing, Patient and Visit.
 
+After left joining the patient and billing tables together, I plotted the number of visit grouped by reason and segmented per month. 
+
+<img src="Patient Images/Reason per Month.png" height = 250, width = 400>
 
 
 
