@@ -35,7 +35,7 @@ And then, I did the same but based on zip codes this time.
 
 After this, I plotted the total invoice amount based on reason for visit, segmented with if it was paid or not.
 
-<img src="Patient Images/Reason based on Zip.png" height = 250, width = 400>
+<img src="Patient Images/Total_Reason_per_Invoice.png" height = 250, width = 400>
 
 
 
