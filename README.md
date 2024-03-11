@@ -18,3 +18,9 @@ And finally, I did the same but with the balance per course also segmented by pa
 <img src="Student Images/Total Balance per Major.png" height = 250, width = 400>
 
 
+# Patient
+### These are my findings on the patient data that can be found in the Patient Data folder. There are three tables: Billing, Patient and Visit.
+
+
+
+
