@@ -8,3 +8,7 @@ After left joining the three table together, I plotted the joined table to see t
 Then, I made a chart based on the birth year of the student.
 
 <img src="Student Images/count_students_birth.png" height = 250, width = 400>
+
+I also made a chart for the total cost per course segmented by payment plan.
+
+<img src="Student Images/count_students_birth.png" height = 250, width = 400>
