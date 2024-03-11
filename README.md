@@ -25,5 +25,9 @@ After left joining the patient and billing tables together, I plotted the number
 
 <img src="Patient Images/Reason per Month.png" height = 250, width = 400>
 
+Then, I created a pivot table with the number of visit grouped by reason based on walkin or not
+
+<img src="Patient Images/Reason Based on Walkin.png" height = 250, width = 400>
+
 
 
